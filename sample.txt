@@ -1,0 +1,11 @@
+Q0{What is the way things are?}
+>Q1{###Q_1###}
+>>A1.1{###Answer_1’###}
+>>Q2{###Question_2###}
+>>>A2.1{###Answer_2’###}
+>>>A2.2{###Answer_2’’###}
+>>Q3{###Question_3###}
+>>>A3{###Answer_3###}
+>>>Q4{###Question_4###}
+>>>>A4{###Answer_4###}
+>>A1.2{###Answer_1’’###}
