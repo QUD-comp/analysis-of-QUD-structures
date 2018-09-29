@@ -1,0 +1,16 @@
+What is the way things are?
+>What is the situation with bachelor grades?
+>>What is the general idea of the bachelor degree?
+>>>The idea of the bachelor degree is to put together a cumulative grade from various individual assignments
+>>>Why is this done?
+>>>>in order to generate a final grade.
+>>>>This is also more akin to the real working world later,
+>>>>Why is it more akin to the real working world later?
+>>>>>where performance isn't singular, but constant
+>>>>>and has to be delivered over longer periods.
+>>>What are the implications of that?
+>>>>That's why it makes sense that the bachelor thesis only makes up a relatively small portion of the final grade (15 out of 120 credits).
+>>>What is the proplem with this approach?
+>>>>However, the effort required for the individual equally weighted modules differs strongly.
+>>>>What should be done about it?
+>>>>>It would therefore be wise to adjust the required effort for final theses accordingly.

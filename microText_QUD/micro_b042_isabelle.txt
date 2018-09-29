@@ -1,0 +1,18 @@
+What is the way things are?
+>The state ought not to restrict medical products or medical treatments for moral reasons
+>Is there a restriction?
+>>as long as they don't do damage to others.
+>>[COUNTERFACTUAL]?
+>>>But without a prescription requirement there's also no medical advice given before intake.
+>>>Why is that a problem?
+>>>>Since the impact of the morning-after pill is so massive,
+>>>>[ELABORATION]?
+>>>>>particularly due to its abortive effect,
+>>>>>[CONCLUSION]?
+>>>>>>dispensing it without medical advice would be inappropriate.
+>>What other risks are there?
+>>>Easy access to the morning-after pill could also result in its appearing to be an easier method than other forms of contraception that, however, have fewer health effects.
+>>>Example?
+>>>>For instance the morning-after pill could result in a decrease in the use of condoms
+>>>>[RESULT]?
+>>>>>and thus lead to an increase in new infections with Aids.
